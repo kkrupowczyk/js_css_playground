@@ -1,1 +1,1 @@
-## Javascript + html + css playground
+## Javascript + html + css
